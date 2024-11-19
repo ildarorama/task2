@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "name": "User1",
+  "currencies": {
+    "USD": {
+      "currency": "USD",
+      "amount": 6.07
+    },
+    "EURO": {
+      "currency": "EURO",
+      "amount": 50.60
+    },
+    "LIRA": {
+      "currency": "LIRA",
+      "amount": 1982.25
+    },
+    "LARI": {
+      "currency": "LARI",
+      "amount": 131.03
+    },
+    "YEN": {
+      "currency": "YEN",
+      "amount": 8592.16
+    },
+    "POUND": {
+      "currency": "POUND",
+      "amount": 0.12
+    }
+  }
+}
